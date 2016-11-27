@@ -1,0 +1,3 @@
+sonar:2.5
+quality-gates:2.5
+artifactory:2.8.1
