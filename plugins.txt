@@ -25,7 +25,7 @@ workflow-durable-task-step:2.5
 durable-task:1.12
 handlebars:1.1.1
 momentjs:1.1.1
-pipeline-stage-view:2.5
+pipeline-stage-view:2.4
 pipeline-stage-step:2.2
 credentials:2.1.10
 ssh-credentials:1.12
@@ -53,3 +53,4 @@ pipeline-utility-steps:1.2.0
 workflow-basic-steps:2.3
 workflow-multibranch:2.9.2
 async-http-client:1.7.24.1
+mattermost:2.3.0
