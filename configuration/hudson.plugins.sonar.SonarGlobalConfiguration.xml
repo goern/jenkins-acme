@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.sonar.SonarGlobalConfiguration plugin="sonar@2.5">
+  <installations>
+    <hudson.plugins.sonar.SonarInstallation>
+      <name>ACME SonarQube Default</name>
+      <serverUrl>http://sonarqube-acme-dev-infra.apps.acme.e2e.bos.redhat.com/</serverUrl>
+      <serverVersion>5.3</serverVersion>
+      <triggers>
+        <skipScmCause>false</skipScmCause>
+        <skipUpstreamCause>false</skipUpstreamCause>
+        <envVar></envVar>
+      </triggers>
+    </hudson.plugins.sonar.SonarInstallation>
+  </installations>
+  <buildWrapperEnabled>false</buildWrapperEnabled>
+</hudson.plugins.sonar.SonarGlobalConfiguration>
