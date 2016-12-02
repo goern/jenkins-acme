@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.plugins.mattermost.MattermostNotifier_-DescriptorImpl plugin="mattermost@2.3.0">
+  <endpoint>https://mm.os.ci.centos.org/hooks/fcxf1ji46j86dqnzwx8no68gsh</endpoint>
+  <room>acme-corp-it</room>
+  <icon></icon>
+  <buildServerUrl>https://jenkins-eap-kitchensink-pipeline-test.apps.acme.e2e.bos.redhat.com/</buildServerUrl>
+</jenkins.plugins.mattermost.MattermostNotifier_-DescriptorImpl>
