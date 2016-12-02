@@ -9,8 +9,8 @@
       <bypassProxy>false</bypassProxy>
       <deployerCredentialsConfig>
         <credentials>
-          <username></username>
-          <password></password>
+          <username>admin</username>
+          <password>password</password>
         </credentials>
         <credentialsId></credentialsId>
         <overridingCredentials>false</overridingCredentials>
