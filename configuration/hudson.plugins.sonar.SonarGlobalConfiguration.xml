@@ -4,7 +4,17 @@
     <hudson.plugins.sonar.SonarInstallation>
       <name>ACME SonarQube Default</name>
       <serverUrl>http://sonarqube-acme-dev-infra.apps.acme.e2e.bos.redhat.com/</serverUrl>
-      <serverVersion>5.3</serverVersion>
+      <serverVersion>6.1</serverVersion>
+      <triggers>
+        <skipScmCause>false</skipScmCause>
+        <skipUpstreamCause>false</skipUpstreamCause>
+        <envVar></envVar>
+      </triggers>
+    </hudson.plugins.sonar.SonarInstallation>
+    <hudson.plugins.sonar.SonarInstallation>
+      <name>ACME SonarQube Bayesian</name>
+      <serverUrl>http://sonar-test.lab.eng.rdu2.redhat.com/</serverUrl>
+      <serverVersion>5.6.3</serverVersion>
       <triggers>
         <skipScmCause>false</skipScmCause>
         <skipUpstreamCause>false</skipUpstreamCause>
