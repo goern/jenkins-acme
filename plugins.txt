@@ -34,6 +34,8 @@ git-server:1.7
 scm-api:1.3
 workflow-cps-global-lib:2.5
 maven-plugin:2.14
+pipeline-maven:0.3
+config-file-provider:2.13
 javadoc:1.4
 junit:1.19
 mailer:1.18
