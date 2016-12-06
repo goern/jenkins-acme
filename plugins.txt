@@ -3,13 +3,13 @@ sonar:2.5
 quality-gates:2.5
 ivy:1.17
 gradle:1.15
-artifactory:2.8.1
+artifactory:2.8.2
 workflow-api:2.7
 git:3.0.1
 pipeline-rest-api:2.4
 workflow-cps:2.23
 workflow-job:2.9
-openshift-sync:0.1.5
+openshift-sync:0.1.6
 metrics:3.1.2.9
 workflow-scm-step:2.3
 workflow-step-api:2.5
@@ -34,7 +34,7 @@ git-server:1.7
 scm-api:1.3
 workflow-cps-global-lib:2.5
 maven-plugin:2.14
-pipeline-maven:0.3
+pipeline-maven:0.4
 config-file-provider:2.13
 javadoc:1.4
 junit:1.19

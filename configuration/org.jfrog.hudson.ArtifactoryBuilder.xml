@@ -10,7 +10,7 @@
       <deployerCredentialsConfig>
         <credentials>
           <username>admin</username>
-          <password>password</password>
+          <password>cGFzc3dvcmQ=</password>
         </credentials>
         <credentialsId></credentialsId>
         <overridingCredentials>false</overridingCredentials>
