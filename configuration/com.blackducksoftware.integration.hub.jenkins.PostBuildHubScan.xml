@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.blackducksoftware.integration.hub.jenkins.PostBuildScanDescriptor plugin="hub-jenkins@1.5.4">
+  <hubServerInfo>
+    <serverUrl>http://blackduck-hub.acme.e2e.bos.redhat.com:8080/</serverUrl>
+    <hubCredentialsId>7cba8492-1617-45f3-a128-3d411afbd2ff</hubCredentialsId>
+    <timeout>120</timeout>
+  </hubServerInfo>
+</com.blackducksoftware.integration.hub.jenkins.PostBuildScanDescriptor>
