@@ -25,6 +25,7 @@ objects:
     apiVersion: v1
     metadata:
       name: '${JENKINS_SERVICE_NAME}'
+      creationTimestamp: null
     spec:
       to:
         kind: Service
